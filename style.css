@@ -1,0 +1,40 @@
+.mainparent{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(1,1fr);
+    gap:10px;
+    
+}
+
+:hover.parent1{
+    color: blue;
+}
+:hover.parent2{
+    color:aqua;
+}
+:hover.parent3{
+    color:green;
+}
+:hover.parent4{
+    color:brown;
+}
+:hover.parent5{
+    color:yellow;
+}
+:hover.parent6{
+    color:crimson;
+}
+:hover.parent7{
+    color:blueviolet;
+}
+:hover.parent8{
+    color:chartreuse;
+}
+:hover.parent9{
+    color:cadetblue;
+}
+
+
+
+
+
